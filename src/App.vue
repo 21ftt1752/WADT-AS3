@@ -24,7 +24,7 @@ import HelloWorld from './components/HelloWorld.vue'
           <img class="w-10 h-10 rounded-full mr-4 object-cover" src="./assets/picture.jpg" alt="Avatar of Writer">
           <div class="text-sm">
             <strong class="text-gray-900 leading-none">Hariz Razali</strong>
-            <p class="text-gray-600">Bandar Seri Begawan, Brunei</p>
+            <p class="text-gray-600">Bandar Seri Begawan, Brunei.Bahit</p>
           </div>
         </div>
       </div>
